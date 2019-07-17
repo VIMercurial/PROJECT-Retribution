@@ -6,8 +6,12 @@
 - Time for the project: 1 Year 
 - Used Engine: Unity 3D 
 - Coded Language: C# 
+- Language Available: Brazilian Portuguese
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++
+
+!!!IMPORTANT!!!
+TO DOWNLOAD THE GAME YOU NEED TO DOWNLOAD THE "RETRIBUTION - BUILDED GAME" AND RUN THE EXE FILE INSIDE IT.
 
 RETRIBUTION is a game where the player goes around a set level in a standart Metroid-inspired gameplay, collecting notes and files to ultimately achieve his goal.
 
