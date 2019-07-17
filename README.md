@@ -13,12 +13,12 @@ RETRIBUTION is a game where the player goes around a set level in a standart Met
 
 IN THE GAME, THE PLAYER HAS THE ABILITY TO:
 
-1 - Jump high like Samus.
-2 - Shoot in 6 directions.
-3 - Collect Notes and Files.
-4 - Use powers to either regain life or dish out more damage.
-5 - Use a Map.
-6 - Decide the fate of the main character at an ultimate decision.
+- Jump high like Samus.
+- Shoot in 6 directions.
+- Collect Notes and Files.
+- Use powers to either regain life or dish out more damage.
+- Use a Map.
+- Decide the fate of the main character at an ultimate decision.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
