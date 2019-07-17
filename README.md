@@ -24,6 +24,6 @@ IN THE GAME, THE PLAYER HAS THE ABILITY TO:
 
 CONTROLS:
 
-A and D - Move around.
-W and S - Aim up and Down with the gun, this also serves to look up and down.
-SPACE - The Key to Jump.
+- A and D - Move around.
+- W and S - Aim up and Down with the gun, this also serves to look up and down.
+- SPACE - The Key to Jump.
