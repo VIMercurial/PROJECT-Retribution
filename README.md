@@ -2,10 +2,10 @@
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
-//Year: 2018
-//Time for the project: 1 Year
-//Used Engine: Unity 3D
-//Coded Language: C#
+Year: 2018 /
+Time for the project: 1 Year /
+Used Engine: Unity 3D /
+Coded Language: C# /
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
